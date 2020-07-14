@@ -1,4 +1,4 @@
-Public Class AssignmentMay {
+public class AssignmentMay {
     public static void main(String[] args){
         
         int num1 = 2;
