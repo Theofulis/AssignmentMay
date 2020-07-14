@@ -5,7 +5,7 @@ Class AssignmentMay {
         int num2= 3;
         
         
-        System.out.println("hello world");
+      
        
         System.out.println(num1+num2);
         
